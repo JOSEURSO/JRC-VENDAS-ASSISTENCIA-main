@@ -51,10 +51,10 @@ Make sure disabled buttons don't get the pointer cursor.
 
 .whats{
   position: fixed;
-  width: 45px;
+  width: 65px;
   top: 80%;
-  bottom: 30px;
-  right: 30px;
+  bottom: 80px;
+  right: 90px;
   z-index: 9999;
   cursor: pointer;
   }
