@@ -1,4 +1,8 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 /*
 Make sure disabled buttons don't get the pointer cursor.
@@ -68,11 +72,7 @@ Make sure disabled buttons don't get the pointer cursor.
 
 
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 
 dialog{
     position: relative;
