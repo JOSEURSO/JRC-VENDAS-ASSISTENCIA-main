@@ -1,9 +1,3 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 
 
 /*
@@ -55,15 +49,6 @@ Make sure disabled buttons don't get the pointer cursor.
 
 
 
-.whats{
-  position: fixed;
-  width: 65px;
-  top: 80%;
-  bottom: 100px;
-  right: 100px;
-  z-index: 9999;
-  cursor: pointer;
-  }
 
 
 
@@ -74,7 +59,11 @@ Make sure disabled buttons don't get the pointer cursor.
 
 
 
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 dialog{
     position: relative;
@@ -294,12 +283,12 @@ h5{
 }
 
 footer {
-  background: #69a9e9;
-  color:white;
-  text-align: center;
-  padding: 1rem;
-  margin-top: 2rem;
-}
+   background: #2c3e50;
+   color: white;
+   text-align: center;
+   padding: 1rem;
+   margin-top: 2rem;
+ }
 
  p{
    color: black;
@@ -558,7 +547,7 @@ img {
   margin-inline: auto;
   display: flex;
   justify-content: space-between;
- margin: 10px;
+  padding: 149.54px 1.5625rem 120px 1.5625rem;
 }
 
 
