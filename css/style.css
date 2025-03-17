@@ -10,6 +10,15 @@ Make sure disabled buttons don't get the pointer cursor.
   cursor: default;
 }
 
+.whats{
+  position: fixed;
+  width: 65px;
+  top: 80%;
+  bottom: 100px;
+  right: 100px;
+  z-index: 9999;
+  cursor: pointer;
+  }
 
 .carousel {
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
