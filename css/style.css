@@ -495,9 +495,9 @@ img {
   display: flex;
   gap: 12px;
 }
-@media (max-width: 740px) {
+@media (max-width: 750px) {
   #navbar .wrapper .menu {
-    display:nano ;
+    display:none ;
     
   }
 }
