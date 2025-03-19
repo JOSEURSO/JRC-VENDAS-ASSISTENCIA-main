@@ -387,12 +387,6 @@ h5{
 
 
 
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  font-family: "DM Sans", sans-serif;
-}
 
 html {
   scroll-behavior: smooth;
@@ -480,7 +474,7 @@ img {
   
 }
 #navbar .wrapper {
-  background: #047fe4;
+  
   margin-inline: auto;
   display: flex;
   justify-content: space-between;
