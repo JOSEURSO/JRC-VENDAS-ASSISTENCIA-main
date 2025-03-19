@@ -497,8 +497,8 @@ img {
 }
 @media (max-width: 740px) {
   #navbar .wrapper .menu {
-    display: ;
-    background: #047fe4;
+    display:nano ;
+    
   }
 }
 #navbar .wrapper .menu li a {
