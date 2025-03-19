@@ -480,7 +480,7 @@ img {
   
 }
 #navbar .wrapper {
-  
+  background: #047fe4;
   margin-inline: auto;
   display: flex;
   justify-content: space-between;
