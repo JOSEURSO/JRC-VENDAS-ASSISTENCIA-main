@@ -497,7 +497,7 @@ img {
 }
 @media (max-width: 750px) {
   #navbar .wrapper .menu {
-    display:;
+    display:none;
     background: #047fe4;
   }
 }
