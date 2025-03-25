@@ -1280,18 +1280,3 @@ img {
 
 
 
-.back-to-top {
-  visibility: hidden;
-  position: fixed;
-  width: 45px;
-  bottom: 17px;
-  right: 25px;
-  z-index: 1;
-  transition: 450ms;
-}
-.back-to-top:hover {
-  transition: 450ms;
-  transform: scale(0.9);
-}
-
-/*# sourceMappingURL=app.css.map */
